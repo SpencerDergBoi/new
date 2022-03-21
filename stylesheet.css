@@ -64,9 +64,9 @@
   border-radius: 4px;
 }
 .button4 {
-  background-image: linear-gradient(45deg, #f09433 100%,#e6683c 100%,#dc2743 100%,#cc2366 100%,#bc1888 100%); 
+  background-image: linear-gradient(#f09433, #e6683c,#dc2743 ,#cc2366 ,#bc1888); 
   border: none;
-  color: black;
+  color: white;
   padding: 1px 12px;
   text-align: center;
   text-decoration: none;
